@@ -1,0 +1,16 @@
+.box{
+	border: 2px solid #ddd;
+	padding: 15px 20px;
+}
+
+.results-wrap{
+	display: flex;
+}
+.result{
+	width: 50%;
+}
+
+button{
+	background-color: blue;
+	border: 0;
+}
